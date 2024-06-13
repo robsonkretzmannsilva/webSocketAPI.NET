@@ -1,4 +1,4 @@
-﻿namespace webSocket.Service;
+﻿namespace WebSocket.Service;
 
 public class Class1
 {

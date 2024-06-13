@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace webSocketAPI.NET.Controllers;
+namespace Websocket.API.Controllers;
 
 [ApiController]
 [Route("[controller]")]

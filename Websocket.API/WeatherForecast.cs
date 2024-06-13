@@ -1,4 +1,4 @@
-﻿namespace webSocketAPI.NET;
+﻿namespace Websocket.API;
 
 public class WeatherForecast
 {
