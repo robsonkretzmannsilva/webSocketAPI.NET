@@ -13,17 +13,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Infrastructure", "4 - I
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Websocket.API", "Websocket.API\Websocket.API.csproj", "{241BC9DA-BD4D-4CDD-AA74-19016864E034}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSocket.Domain", "WebSocket.Domain\WebSocket.Domain.csproj", "{D02E5026-A4B1-4354-9C00-4DF4E377CE47}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSocketPool.Domain", "WebSocket.Domain\WebSocketPool.Domain.csproj", "{D02E5026-A4B1-4354-9C00-4DF4E377CE47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSocket.Service", "WebSocket.Service\WebSocket.Service.csproj", "{F5A3E55C-C310-4516-ABA7-536FBC6F38E5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSocketPool.Service", "WebSocket.Service\WebSocketPool.Service.csproj", "{F5A3E55C-C310-4516-ABA7-536FBC6F38E5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.1 - Data", "4.1 - Data", "{4DF14490-0E6C-415A-B83D-D9934B9FF130}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.2 - CrossCutting", "4.2 - CrossCutting", "{B3545034-DB01-41BA-8870-8A6CC42EF5C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSocket.Infra.Data", "WebSocket.Infra.Data\WebSocket.Infra.Data.csproj", "{D4A88594-CEC2-42CF-A5F4-F42CFEC6FB58}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSocketPool.Infra.Data", "WebSocket.Infra.Data\WebSocketPool.Infra.Data.csproj", "{D4A88594-CEC2-42CF-A5F4-F42CFEC6FB58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSocket.Infra.CrossCutting", "WebSocket.Infra.CrossCutting\WebSocket.Infra.CrossCutting.csproj", "{0585F157-B770-415D-AC2C-FCAA4960AFE4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSocketPool.Infra.CrossCutting", "WebSocket.Infra.CrossCutting\WebSocketPool.Infra.CrossCutting.csproj", "{0585F157-B770-415D-AC2C-FCAA4960AFE4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
